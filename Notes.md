@@ -1,13 +1,14 @@
 # Notes on Algorithmic Trading 
-Overview 
+## Overview 
+Algorithmic trading consists of an established set of rules that first tell a system when to buy or sell an asset and then execute that trading strategy. Algorithmic trading is logic based. This means that it’s based on a set of conditions that, when triggered, initiate a buy or sell action.
 
-
+People often associate algorithmic trading with complex quantitative analysis. But, this isn’t always the case. In fact, we can create a trading algorithm that’s as simple or as sophisticated as needed.
 
 
 ## Calulation of Profit 
-*We calculate the cost of each trade by multiplying the closing price of the stock by the number of shares that we bought. 
-*We calculate the proceeds by multiplying the closing price of the stock by the total number of shares that we accumulated over the period. 
-*We calculate the profit or loss by subtracting the total cost of the shares that we bought from the total proceeds that we made from selling the shares.
+* We calculate the cost of each trade by multiplying the closing price of the stock by the number of shares that we bought. 
+* We calculate the proceeds by multiplying the closing price of the stock by the total number of shares that we accumulated over the period. 
+* We calculate the profit or loss by subtracting the total cost of the shares that we bought from the total proceeds that we made from selling the shares.
 
 | Term | Definistion|   
 |:--: | :---- |
