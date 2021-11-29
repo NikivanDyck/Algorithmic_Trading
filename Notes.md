@@ -16,7 +16,7 @@ The calculation of profit within this trading mechanism is defined as the follow
 | Fundamental analysis | focuses on the long-term health of a company. This includes its historical cash flow, debt-to-equity ratio, and management quality. The healthier the financial outlook for a company, the higher we expect its stock price to trend.|
 |Technical analysis| focuses on the price action of a company’s stock—that is, its behavior as shares are bought and sold. Because technical analysis is quantitative in nature, algorithmic trading often leans toward this philosophy when determining when to buy or sell.|
 | SMA | Simple moving avergae.  The SMA calculates the average price of a stock over a rolling period of a specific number of days. Examples of these periods include 30 days, 50 days, 100 days, and 200 days.
-| Singnals | | 
+| Signals | defined point/ event denotes when to buy or sell | 
 |crossover points| crossover points indicate when the short-term price trend changes. We consider such changes as opportunities to either enter or exit a trade.|
 |Long position trading strategy| focuses on first buying the stock, then holding it, and then selling it only when the short-term price trend turns lower |
 |Short position trading strategy| To make a profit by first selling the stock, also called going short, and then buying back the stock when the price goes down? With a short position, the trader makes a profit by selling high and then buying low. |
