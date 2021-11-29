@@ -11,7 +11,8 @@ The calculation of profit within this trading mechanism is defined as the follow
 * We calculate the proceeds by multiplying the closing price of the stock by the total number of shares that we accumulated over the period. 
 * We calculate the profit or loss by subtracting the total cost of the shares that we bought from the total proceeds that we made from selling the shares.
 
-| Term | Definistion|   
+## Definitions 
+| Term | Definition|   
 |:--: | :---- |
 | Fundamental analysis | focuses on the long-term health of a company. This includes its historical cash flow, debt-to-equity ratio, and management quality. The healthier the financial outlook for a company, the higher we expect its stock price to trend.|
 |Technical analysis| focuses on the price action of a company’s stock—that is, its behavior as shares are bought and sold. Because technical analysis is quantitative in nature, algorithmic trading often leans toward this philosophy when determining when to buy or sell.|
