@@ -1,7 +1,6 @@
 # Algorithmic Trading 
 ## Overview 
-The use case of this project is to create an Algorithmic logice based trading trading mechinisum that defines when to buy or sell an asset and then execute that trading strategy. This means that it’s based on a set of conditions that, when triggered, initiate a buy or sell action.
-
+The use case of this project is to create an Algorithmic logic-based trading mechanism that defines when to buy or sell an asset and then execute that trading strategy. A logic-based trading mechanism is based on a set of conditions that, when triggered, initiate a buy or sell action.
 
 ## Data
 The following models were reviewed 
@@ -27,7 +26,7 @@ Step 2: The trading algorithm was tuned by adjusting the simple moving average (
 Output: SMA under 100 demonstrated better results vs. an SMA of 200 days.  
 
 ## Conclusion
-A training set of three months, and a training SMA of 4/100, had the overall best results. However, machine learning classifiers of Logistic Regression and Adaboot lowered the overall accuracy rating.  If a machine learning model is to be applied, additional research is required to find the best model. 
+A training set of three months, and a trading SMA of 4/100, had the overall best results. However, machine learning classifiers of Logistic Regression and Adaboot lowered the overall accuracy rating.  If a machine learning model is to be applied, additional research is required to find the best model. 
 
 ![ABplot](https://github.com/NikivanDyck/Algorithmic_Trading/blob/main/Plot_Images%20ab_plot.png)
 
