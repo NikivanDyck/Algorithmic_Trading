@@ -19,11 +19,11 @@ The following models were reviewed
 ## Steps followed to review data
 Step 1: The training algorithm by adjusting the size of the training dataset.  Tuning the dataset was completed by updating the date offset value to one month, three months, six months.
 
-Output: Changes in the short-long date of the trading window were better if the data offset was less than six months.  
+Output: Training datasets yeilded better results if the data offset was less than six months.  
 
 Step 2: The trading algorithm was tuned by adjusting the simple moving average (SMA) that calculates the average price over a rolling period of a specific number of days.  
 
-Output: SMA under 100 demonstrated better results vs. an SMA of 200 days.  
+Output: SMA accuracy scores were better when the SMA was under 100 days vs. an SMA of 200 days.  
 
 ## Conclusion
 A training set of three months, and a trading SMA of 4/100, had the overall best results. However, machine learning classifiers of Logistic Regression and Adaboot lowered the overall accuracy rating.  If a machine learning model is to be applied, additional research is required to find the best model. 
