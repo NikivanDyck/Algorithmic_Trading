@@ -29,13 +29,13 @@ Output: SMA under 100 has better results.
 ## Conclusion
 The data reflects that and taining set of 3 months, SMA of 4/100 had the over all best results.  Maschaile claering classificers if Logistic Regression and Adaboot lowered the overall accuracy rating. 
 
-[Plot_Images ab_plot.png]
+![ABplot](Plot_Images_ab_plot.png)
 
 ## Addendum 
 
 Resulting data plots
 
-[Plot_Images ST_plot_1.png], [Plot_Images ST_plot_3.png],
+(Plot_Images ST_plot_1.png)  (Plot_Images ST_plot_3.png) 
 
-[Plot_Images ST_plot_3.1.png],[Plot_Images ST_plot_6.png] 
+(Plot_Images ST_plot_3.1.png) (Plot_Images ST_plot_6.png) 
 
