@@ -32,7 +32,7 @@ A training set of three months, and a trading SMA of 4/100, had the overall best
 
 ## Addendum 
 
-Resulting data plots
+Resulting data plots in researching training and trading 
 
 ![1plot](https://github.com/NikivanDyck/Algorithmic_Trading/blob/main/Plot_Images%20ST_plot_1.png)  
 ![3plot](https://github.com/NikivanDyck/Algorithmic_Trading/blob/main/Plot_Images%20ST_plot_3.png) 
